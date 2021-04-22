@@ -1,0 +1,15 @@
+{
+  "name": "bee-launcher-api",
+  "version": "0.0.1",
+  "description": "Official Bee Luancher API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "axios": "^0.21.1",
+    "joi": "^17.4.0"
+  },
+  "license": "UNLISENCED"
+}
